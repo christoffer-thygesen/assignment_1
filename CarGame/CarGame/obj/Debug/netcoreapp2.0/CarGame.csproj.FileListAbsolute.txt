@@ -1,0 +1,11 @@
+D:\C# projects\CarGame\CarGame\CarGame\bin\Debug\netcoreapp2.0\CarGame.deps.json
+D:\C# projects\CarGame\CarGame\CarGame\bin\Debug\netcoreapp2.0\CarGame.runtimeconfig.json
+D:\C# projects\CarGame\CarGame\CarGame\bin\Debug\netcoreapp2.0\CarGame.runtimeconfig.dev.json
+D:\C# projects\CarGame\CarGame\CarGame\bin\Debug\netcoreapp2.0\CarGame.dll
+D:\C# projects\CarGame\CarGame\CarGame\bin\Debug\netcoreapp2.0\CarGame.pdb
+D:\C# projects\CarGame\CarGame\CarGame\obj\Debug\netcoreapp2.0\CarGame.csprojResolveAssemblyReference.cache
+D:\C# projects\CarGame\CarGame\CarGame\obj\Debug\netcoreapp2.0\CarGame.csproj.CoreCompileInputs.cache
+D:\C# projects\CarGame\CarGame\CarGame\obj\Debug\netcoreapp2.0\CarGame.AssemblyInfoInputs.cache
+D:\C# projects\CarGame\CarGame\CarGame\obj\Debug\netcoreapp2.0\CarGame.AssemblyInfo.cs
+D:\C# projects\CarGame\CarGame\CarGame\obj\Debug\netcoreapp2.0\CarGame.dll
+D:\C# projects\CarGame\CarGame\CarGame\obj\Debug\netcoreapp2.0\CarGame.pdb
